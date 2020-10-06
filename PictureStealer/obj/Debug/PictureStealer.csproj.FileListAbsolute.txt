@@ -1,0 +1,17 @@
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\PictureStealer.exe.config
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\PictureStealer.exe
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\PictureStealer.pdb
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.Form1.resources
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.exe
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.pdb
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\Firebase.Auth.dll
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\Firebase.Storage.dll
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sebastian\source\repos\PictureStealer\PictureStealer\obj\Debug\PictureStealer.csproj.CopyComplete

